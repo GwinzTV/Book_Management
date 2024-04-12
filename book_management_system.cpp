@@ -15,10 +15,10 @@
 
 #define HOST "localhost"
 #define USER "root"
-#define PASS "temp"     /*put password of MySQL in here*/
+#define PASS "passwordHere"    /*put password of MySQL in here*/
 #define DATABASE "bookManagement"
 #define PORT 0
-#define PASSWORD 12345     /*Set Numeric Password for Application*/
+#define PASSWORD 12345    /*Set Numeric Password for Application*/
 
 using namespace std;
 
